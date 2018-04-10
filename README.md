@@ -1,6 +1,6 @@
 # android-workshop
 
-                                    Android Workshop Schedule  <br/>
+                                   <b> Android Workshop Schedule </b>  
 
 i)Introduction to Android Studio <br/>
   1)Java <br/>
