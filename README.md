@@ -1,6 +1,6 @@
 # android-workshop
 
-                                   <b> Android Workshop Schedule </b>  
+                               		 Android Workshop Schedule 
 
 i)Introduction to Android Studio <br/>
   1)Java <br/>
@@ -26,7 +26,7 @@ x)File management <br/>
 xi)Display data using list view <br/>
 xii)Garbage collection <br/>
 
-		                      		Android Workshop Pre requisites  <br/>
+		                      		Android Workshop Pre requisites  
 
 i)Install android studio  <br/>
 ii)Install LAMP/ WAMP/ MAMP  <br/>
