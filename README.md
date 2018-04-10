@@ -1,11 +1,11 @@
 # android-workshop
 
-                               		 #Android Workshop Schedule 
+                               		    Android Workshop Schedule 
 
 * Introduction to Android Studio 
 	* Java 
 	* XML
-	* Activity/ Service/ asynchronous task 
+	* Activity / Service / Asynchronous task 
 	* Fragments
 	* Manifest 
 * Create activity with Intent 
@@ -16,11 +16,11 @@
 	* Relative Layout
 * What is a static variable?
 * Runtime permissions
-* Send receive data from servers
-	* Ip address
-	* Php
+* Send n Receive data from servers
+	* IP address
+	* PHP
 	* MySQL
-	* Getter/ Setter 
+	* Getter / Setter 
 * Debugging 
 * File management 
 * Display data using list view 
