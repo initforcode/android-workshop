@@ -2,9 +2,9 @@
 
                                		 #Android Workshop Schedule 
 
-i)<b>Introduction to Android Studio</b> <br/>
-  1)Java <br/>
-  2)Xml <br/>
+* Introduction to Android Studio 
+	* Java 
+	* Xml
   3)Activity/ Service/ asynchronous task <br/>
   4)Fragments <br/>
   5)Manifest <br/>
