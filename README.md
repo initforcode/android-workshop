@@ -2,32 +2,32 @@
 
                                		    Android Workshop Schedule 
 
-* Introduction to Android Studio 
+1. Introduction to Android Studio 
 	* Java 
 	* XML
 	* Activity / Service / Asynchronous task 
 	* Fragments
 	* Manifest 
-* Create activity with Intent 
-* Run on emulator/ device
-* Add images to the application
-* Layouts
+2. Create activity with Intent 
+3. Run on emulator/ device
+4. Add images to the application
+5. Layouts
 	* Linear Layout 
 	* Relative Layout
-* What is a static variable?
-* Runtime permissions
-* Send n Receive data from servers
+6. What is a static variable?
+7. Runtime permissions
+8. Send n Receive data from servers
 	* IP address
 	* PHP
 	* MySQL
 	* Getter / Setter 
-* Debugging 
-* File management 
-* Display data using list view 
-* Garbage collection 
+9. Debugging 
+10. File management 
+11. Display data using list view 
+12. Garbage collection 
 
 		                      		Android Workshop Pre requisites  
 
-* Install android studio
-* Install LAMP/ WAMP/ MAMP
+1. Install Android Studio
+2. Install LAMP/ WAMP/ MAMP
 
