@@ -2,10 +2,17 @@
 
 ## Android Studio - IDE
 
-The current stable version of android studio can be downloaded from https://developer.android.com/studio/index.html . To download the installer, click on the "DOWNLOAD ANDROID STUDIO" button. 
-![](DownloadPage.png)
-When prompted, accept the terms and conditions of the installation and then click on the download button.
-![](AcceptTnC.png)
+1. The current stable version of android studio can be downloaded from https://developer.android.com/studio/index.html . To download the installer, click on the "DOWNLOAD ANDROID STUDIO" button. 
+
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/DownloadPage.png">
+</p>
+
+2. When prompted, accept the terms and conditions of the installation and then click on the download button.
+
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/AcceptTnC.png.png">
+</p>
 
 ## Android Studio - SDK Setup
 
