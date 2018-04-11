@@ -11,7 +11,7 @@
 2. When prompted, accept the terms and conditions of the installation and then click on the download button.
 
 <p align="center">
-  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/AcceptTnC.png.png">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/AcceptTnC.png">
 </p>
 
 ## Android Studio - SDK Setup
