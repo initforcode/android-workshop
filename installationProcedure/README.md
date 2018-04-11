@@ -18,27 +18,39 @@
 
 1. To setup all android SDK related content, First navigate to the "tools", located on the menu bar at the top of the android studio IDE.
 
-![](Tools.png)
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/Tools.png">
+</p>
 
 2. After Expanding the tools, select "SDK Manager" from the drop down list. This will open a dialog which will let you configure your android SDK.
 
-![](toolsExpanded.png)
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/toolsExpanded.png">
+</p>
 
 3. Make sure that once the android SDK is installed, the necessary platforms checked in the image below are installed on your device.It is not necessary to download all platforms but ensure that you download the platform that corresponds to your mobile phone or the phone you will be using to run the application.
 
-![](SDKManagerPlatforms.png)
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/SDKManagerPlatforms.png">
+</p>
 
 4. To install android SDK or update it, click on the edit button as shown in the picture below to go to the android SDK setup dialog.
 
-![](sdkEdit.png)
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/sdkEdit.png">
+</p>
 
 5. Once on the android SDK setup, choose the version of android SDK to download and the location on your device where you want to store the SDK. After this, click on "NEXT" to finsh the android SDK setup. 
 
-![](sdkSetup.png)
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/sdkSetup.png">
+</p>
 
 6. After installation of the SDK, navigate back to the SDK manager dialog and select the SDK Tools. On this page, select the tools that are selected in the image below and click on apply/ok to install them. 
 
-![](SDKManagerTools.png)
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/SDKManagerTools.png">
+</p>
 
 
 
