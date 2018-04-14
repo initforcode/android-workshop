@@ -52,5 +52,29 @@
   <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/SDKManagerTools.png">
 </p>
 
+## Android Virtual Device (Optional)
 
+1. The android virtual device (or) android emulator is a digital tool that lets you run and test applications without installing them on the mobile device by providing a virtual mobile interface and a virtual operating system that runs on your computer. To setup a virtual device, select the AVD Manager from the "Tools" tab.
+
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/toolsExpandedAVD.png">
+</p>
+
+2. Once on the AVD Manager, Click on the "Create virtual device button"
+
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/AVDManager.png">
+</p>
+
+3. In the virtual device configuration dialog, under category select Phone and then select the hardware profile of your choice. this selection will only affect the size aand resoultion of the AVD interface. After selecting, hit the next button!
+
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/virtualDeviceConfig.png">
+</p>
+
+4. In the system image selection, Download and select any system image that has a release version above Lollipop (api level : 22). and hit next. After this, click finish on the next dialog to finish installation and setup of the AVD. To ensure correct installation of the AVD, launch it from the AVD manager. this should open a new window with the android interface.
+
+<p align="center">
+  <img src="https://github.com/initforcode/android-workshop/blob/master/installationProcedure/systemImage.png">
+</p>
 
